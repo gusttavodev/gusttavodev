@@ -1,9 +1,12 @@
-<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Momento atual</title>
-  <desc id="desc">Desenhando interfaces mais silenciosas com presença mais forte.</desc>
-  <rect width="1200" height="180" fill="#050505"/>
-  <rect x="1" y="1" width="1198" height="178" stroke="#1C1C1C" stroke-width="2"/>
-  <text x="64" y="56" fill="#777" font-family="Inter, Arial, sans-serif" font-size="12" letter-spacing="4">MOMENTO ATUAL</text>
-  <text x="64" y="113" fill="#F5F5F5" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Desenhando interfaces mais silenciosas, com mais presença.</text>
-  <text x="66" y="145" fill="#A8A8A8" font-family="Inter, Arial, sans-serif" font-size="16">Construindo CodeFX. Transformando detalhes pequenos no que as pessoas lembram.</text>
+<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Momento atual em terminal</title>
+  <desc id="desc">Terminal mostrando o momento atual do perfil.</desc>
+  <rect width="1200" height="210" fill="#030303"/>
+  <rect x="1" y="1" width="1198" height="208" stroke="#1E1E1E" stroke-width="2"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="64" y="58" fill="#777" font-size="16">C:\gusttavo&gt; run current-mode</text>
+    <text x="64" y="107" fill="#F5F5F5" font-size="30" font-weight="700">Desenhando interfaces mais silenciosas, com mais presença.</text>
+    <text x="64" y="148" fill="#A8A8A8" font-size="17">Construindo CodeFX. Refinando visual, movimento e experiência.</text>
+    <text x="64" y="179" fill="#777" font-size="15">exit code 0: perfil carregado com sucesso.</text>
+  </g>
 </svg>

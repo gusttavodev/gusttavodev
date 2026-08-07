@@ -1,13 +1,20 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Gusttavo Dev</title>
-  <desc id="desc">Placa minimalista em preto e branco para um perfil do GitHub.</desc>
-  <rect width="1200" height="260" rx="0" fill="#050505"/>
-  <rect x="1" y="1" width="1198" height="258" fill="none" stroke="#1C1C1C" stroke-width="2"/>
-  <path d="M80 71H1120" stroke="#2D2D2D"/>
-  <path d="M80 189H1120" stroke="#2D2D2D"/>
-  <circle cx="92" cy="70" r="4" fill="#F5F5F5"/>
-  <circle cx="1108" cy="190" r="4" fill="#F5F5F5"/>
-  <text x="80" y="47" fill="#777" font-family="Inter, Arial, sans-serif" font-size="12" letter-spacing="5">FRONT-END / MOVIMENTO / SISTEMAS DE MARCA</text>
-  <text x="80" y="151" fill="#F7F7F7" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="1">GUSTTAVO DEV</text>
-  <text x="82" y="219" fill="#A8A8A8" font-family="Inter, Arial, sans-serif" font-size="17">interfaces limpas, movimento preciso e experiências digitais com presença</text>
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal do Gusttavo Dev</title>
+  <desc id="desc">Cabeçalho em estilo terminal para um perfil do GitHub.</desc>
+  <rect width="1200" height="300" fill="#030303"/>
+  <rect x="1" y="1" width="1198" height="298" stroke="#1E1E1E" stroke-width="2"/>
+  <rect x="28" y="28" width="1144" height="244" fill="#070707" stroke="#2A2A2A"/>
+  <rect x="28" y="28" width="1144" height="42" fill="#0D0D0D" stroke="#2A2A2A"/>
+  <circle cx="54" cy="49" r="5" fill="#F5F5F5"/>
+  <circle cx="74" cy="49" r="5" fill="#8C8C8C"/>
+  <circle cx="94" cy="49" r="5" fill="#4A4A4A"/>
+  <text x="112" y="54" fill="#777" font-family="Consolas, 'Courier New', monospace" font-size="14">gusttavo.exe - perfil</text>
+  <text x="64" y="112" fill="#777" font-family="Consolas, 'Courier New', monospace" font-size="18">C:\Users\gusttavo&gt; iniciar perfil</text>
+  <text x="64" y="169" fill="#F5F5F5" font-family="Consolas, 'Courier New', monospace" font-size="62" font-weight="700">GUSTTAVO DEV</text>
+  <text x="64" y="214" fill="#A8A8A8" font-family="Consolas, 'Courier New', monospace" font-size="20">front-end / interfaces limpas / movimento preciso</text>
+  <text x="64" y="246" fill="#777" font-family="Consolas, 'Courier New', monospace" font-size="16">status: construindo CodeFX e experiências digitais com presença</text>
+  <rect x="650" y="105" width="468" height="118" fill="#050505" stroke="#242424"/>
+  <text x="680" y="140" fill="#F5F5F5" font-family="Consolas, 'Courier New', monospace" font-size="17">{ "modo": "cmd",</text>
+  <text x="680" y="171" fill="#A8A8A8" font-family="Consolas, 'Courier New', monospace" font-size="17">  "design": "minimalista premium",</text>
+  <text x="680" y="202" fill="#777" font-family="Consolas, 'Courier New', monospace" font-size="17">  "stack": "Next.js + React" }</text>
 </svg>
