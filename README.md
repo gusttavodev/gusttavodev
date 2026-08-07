@@ -16,6 +16,18 @@
   <span>/</span>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gusttavodev?tab=followers">rede</a>
+  &nbsp;&nbsp;&nbsp;
+  <span>/</span>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/gustta.exemy/">instagram</a>
+  &nbsp;&nbsp;&nbsp;
+  <span>/</span>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@gusttavoexe">youtube</a>
+  &nbsp;&nbsp;&nbsp;
+  <span>/</span>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@guivxdd">tiktok</a>
 </p>
 
 <p align="center">
@@ -47,6 +59,22 @@ detalhes no lugar certo</pre>
 
 <p align="center">
   <img src="./assets/focus.svg" width="100%" alt="Áreas de foco: interface, movimento, marca e entrega" />
+</p>
+
+<br />
+
+### Redes
+
+<p>
+  <a href="https://www.instagram.com/gustta.exemy/">
+    <img src="https://img.shields.io/badge/Instagram-0b0b0b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@gusttavoexe">
+    <img src="https://img.shields.io/badge/YouTube-0b0b0b?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.tiktok.com/@guivxdd">
+    <img src="https://img.shields.io/badge/TikTok-0b0b0b?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
 </p>
 
 <br />
