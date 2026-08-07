@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">TikTok</title>
+  <rect x="1" y="1" width="62" height="62" rx="18" fill="#050505" stroke="#242424" stroke-width="2"/>
+  <path d="M36 16V38.5C36 45 31.6 49 25.8 49C20.9 49 17 45.4 17 40.8C17 36.1 20.8 32.6 25.8 32.6C27.2 32.6 28.5 32.9 29.6 33.5V27.8C28.4 27.4 27.1 27.2 25.8 27.2C17.9 27.2 11.5 33 11.5 40.8C11.5 48.5 17.9 54.4 25.8 54.4C34.1 54.4 41.5 48.7 41.5 38.5V28.3C44.2 31.1 47.7 32.8 52.5 33V27.3C46.4 26.8 41.5 22.3 41.5 16H36Z" fill="#F5F5F5"/>
+</svg>

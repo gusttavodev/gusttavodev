@@ -17,17 +17,17 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gusttavodev?tab=followers">rede</a>
   &nbsp;&nbsp;&nbsp;
-  <span>/</span>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/gustta.exemy/">instagram</a>
-  &nbsp;&nbsp;&nbsp;
-  <span>/</span>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@gusttavoexe">youtube</a>
-  &nbsp;&nbsp;&nbsp;
-  <span>/</span>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@guivxdd">tiktok</a>
+  <a href="https://www.instagram.com/gustta.exemy/">
+    <img src="./assets/icon-instagram.svg" width="18" height="18" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@gusttavoexe">
+    <img src="./assets/icon-youtube.svg" width="20" height="18" alt="YouTube" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@guivxdd">
+    <img src="./assets/icon-tiktok.svg" width="18" height="18" alt="TikTok" />
+  </a>
 </p>
 
 <p align="center">
@@ -65,15 +65,17 @@ detalhes no lugar certo</pre>
 
 ### Redes
 
-<p>
+<p align="center">
   <a href="https://www.instagram.com/gustta.exemy/">
-    <img src="https://img.shields.io/badge/Instagram-0b0b0b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="./assets/icon-instagram.svg" width="34" height="34" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@gusttavoexe">
-    <img src="https://img.shields.io/badge/YouTube-0b0b0b?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="./assets/icon-youtube.svg" width="38" height="34" alt="YouTube" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@guivxdd">
-    <img src="https://img.shields.io/badge/TikTok-0b0b0b?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="./assets/icon-tiktok.svg" width="34" height="34" alt="TikTok" />
   </a>
 </p>
 
