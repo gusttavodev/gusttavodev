@@ -1,13 +1,13 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Gusttavo Dev</title>
-  <desc id="desc">Minimal black and white nameplate for a GitHub profile.</desc>
+  <desc id="desc">Placa minimalista em preto e branco para um perfil do GitHub.</desc>
   <rect width="1200" height="260" rx="0" fill="#050505"/>
   <rect x="1" y="1" width="1198" height="258" fill="none" stroke="#1C1C1C" stroke-width="2"/>
   <path d="M80 71H1120" stroke="#2D2D2D"/>
   <path d="M80 189H1120" stroke="#2D2D2D"/>
   <circle cx="92" cy="70" r="4" fill="#F5F5F5"/>
   <circle cx="1108" cy="190" r="4" fill="#F5F5F5"/>
-  <text x="80" y="47" fill="#777" font-family="Inter, Arial, sans-serif" font-size="12" letter-spacing="5">FRONT-END / MOTION / BRAND SYSTEMS</text>
+  <text x="80" y="47" fill="#777" font-family="Inter, Arial, sans-serif" font-size="12" letter-spacing="5">FRONT-END / MOVIMENTO / SISTEMAS DE MARCA</text>
   <text x="80" y="151" fill="#F7F7F7" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="1">GUSTTAVO DEV</text>
-  <text x="82" y="219" fill="#A8A8A8" font-family="Inter, Arial, sans-serif" font-size="17">interfaces limpas, movimento preciso e experiencias digitais com presenca</text>
+  <text x="82" y="219" fill="#A8A8A8" font-family="Inter, Arial, sans-serif" font-size="17">interfaces limpas, movimento preciso e experiências digitais com presença</text>
 </svg>

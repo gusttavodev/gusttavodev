@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="./banner.gif" width="100%" alt="Gusttavo Dev animated banner" />
+  <img src="./banner.gif" width="100%" alt="Banner animado do Gusttavo Dev" />
 </p>
 
 <p align="center">
-  <img src="./assets/nameplate.svg" width="100%" alt="Gusttavo Dev - front-end developer" />
+  <img src="./assets/nameplate.svg" width="100%" alt="Gusttavo Dev - desenvolvedor front-end" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/gusttavodev?tab=repositories">work</a>
+  <a href="https://github.com/gusttavodev?tab=repositories">projetos</a>
   &nbsp;&nbsp;&nbsp;
   <span>/</span>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gusttavodev">profile</a>
+  <a href="https://github.com/gusttavodev">perfil</a>
   &nbsp;&nbsp;&nbsp;
   <span>/</span>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gusttavodev?tab=followers">network</a>
+  <a href="https://github.com/gusttavodev?tab=followers">rede</a>
 </p>
 
 <p align="center">
@@ -25,29 +25,28 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h3>Direction</h3>
+      <h3>Direção</h3>
       <p>
-        I build front-end experiences with a quiet visual language, precise motion,
-        and the kind of details that make an interface feel considered instead of
-        assembled.
+        Eu construo experiências front-end com uma linguagem visual limpa, movimento
+        preciso e detalhes que fazem uma interface parecer pensada, não apenas montada.
       </p>
       <p>
-        My current work moves between product interfaces, branded web pages,
-        personal digital pieces, and the CodeFX universe.
+        Meu trabalho hoje passa por interfaces de produto, páginas com identidade,
+        experiências pessoais e o universo CodeFX.
       </p>
     </td>
     <td width="42%" valign="top">
-      <h3>Signature</h3>
-      <pre lang="txt">minimal first
-motion with purpose
-premium without noise
-details that line up</pre>
+      <h3>Assinatura</h3>
+      <pre lang="txt">minimalista primeiro
+movimento com propósito
+premium sem ruído
+detalhes no lugar certo</pre>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="./assets/focus.svg" width="100%" alt="Focus areas: interface, motion, brand, delivery" />
+  <img src="./assets/focus.svg" width="100%" alt="Áreas de foco: interface, movimento, marca e entrega" />
 </p>
 
 <br />
@@ -64,25 +63,25 @@ details that line up</pre>
 
 <br />
 
-### Craft Standards
+### Padrão De Construção
 
-| Surface | Standard |
+| Superfície | Padrão |
 | --- | --- |
-| Visual direction | Clean, restrained, premium, never generic. |
-| Interaction | Hover, click, focus, and motion must feel physically aligned. |
-| Brand | Black, white, gray, light, spacing, and rhythm doing real work. |
-| Delivery | Build, test, refine, and keep the final experience intentional. |
+| Direção visual | Limpa, contida, premium, nunca genérica. |
+| Interação | Hover, clique, foco e movimento precisam parecer fisicamente alinhados. |
+| Marca | Preto, branco, cinza, luz, espaçamento e ritmo fazendo trabalho real. |
+| Entrega | Construir, testar, refinar e manter a experiência intencional. |
 
 <br />
 
-### Current Mode
+### Momento Atual
 
 <p align="center">
-  <img src="./assets/current-mode.svg" width="100%" alt="Designing quieter interfaces with stronger presence" />
+  <img src="./assets/current-mode.svg" width="100%" alt="Desenhando interfaces mais silenciosas com presença mais forte" />
 </p>
 
 <br />
 
 <p align="center">
-  <sub>made with restraint, motion, and too much attention to spacing</sub>
+  <sub>feito com contenção, movimento e atenção demais ao espaçamento</sub>
 </p>
